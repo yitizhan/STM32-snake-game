@@ -1,0 +1,23 @@
+CSCI-C335 Final Project
+Author: Yitian, Rodrigo
+
+Final project description:
+What we build is a snake game. User can use nunchuck to control the direction 
+of the snake to eat foods. Everytime the snake eat a food, another new food 
+will appear in a random postion. The goal of the game is to eat food as more 
+as possible.
+
+Task breakdown:
+	(1) draw_snake
+	(2) erase_snake
+	(3) draw a new food
+	(4) get random numbers for the coordinate of foods
+	(5) initialization of the the game
+	(6) condition for lose
+	(7) condition for win
+	(8) function to run the game (The core part of the game)
+	(9) re-conficuration of some driver files
+
+contribution:
+	Yitian:  4, 6, 7, 8, 9
+	Rodrigo: 1, 2, 3, 5, 8, 9

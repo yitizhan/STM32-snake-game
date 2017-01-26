@@ -1,0 +1,16 @@
+C335 Final Project Report
+
+Yitian Zhang
+
+For the final project, my job is to write the core function for the game 
+and midify some driver files which are used in our final project. I implement level attribute to the snake
+ structue, which can speed up the game depends on the length of the snake. I know the snake is not a
+ creative game but I think the main point of this final project is to put what we learned together and
+ make a program. Actually, this whole project is a big challenge for me because I'm really not good at C.
+ The biggest challenge for me is making the snake move automatically without using nunchuk. This problem 
+takes me a look of times. but, finally, I found out a way out. I seperated nunchuk controlling functions 
+from snake moving function and used previous variable to store the previous nunchuk key which input by 
+user.
+
+If I can restart the project from scratch, I will build a more complicated game and I will try to use gyro 
+as a controller. Also, I will use a better lcd and everything else to make our game become more user-friendly.
